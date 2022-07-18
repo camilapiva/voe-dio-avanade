@@ -8,4 +8,4 @@ Por fim, mas não menos importante, trabalhamos um pouquinho com o RabbitMQ e Se
 
 <h5><i>Projeto desenvolvido no bootcamp Tech Woman Summit Avanade Noje.js em parceia com a Dio.</i></h5>
 
-<img src="https://github.com/camilapiva/voe-dio-avanade/tree/main/client/src/images/aviao.png" width=415></img>
+![aviao](https://user-images.githubusercontent.com/40530433/179435479-dc4f87a0-cfb5-4f8f-b68c-fad687871d67.png)
